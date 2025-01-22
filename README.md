@@ -1,1 +1,0 @@
-# TechSakshamProgram_ShoppingTrendAnalysis
